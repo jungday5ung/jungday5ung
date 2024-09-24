@@ -3,6 +3,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jungday5ung&layout=compact)](https://github.com/jungday5ung/github-readme-stats)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jungday5ung&hide=contribs,prs&show_icons=true&theme=graywhite)
+
+
 
 ### Languages & Frameworks
 
