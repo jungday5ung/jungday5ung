@@ -1,6 +1,4 @@
 
-![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=70&section=header&text=다다의%20포폴&fontSize=50)
-
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jungday5ung&layout=compact)](https://github.com/jungday5ung/github-readme-stats)
@@ -18,18 +16,7 @@
 
 
 # Hi there 👋
-## Hi there 👋
-### Hi there 👋
-#### Hi there 👋
-##### Hi there 👋
----
-**두껍게** <br>
-*기울림* <br>
-~~취소선~~ <br>
-* 1번
-* 2번
-- 3번
-- 4번
+
 
 [네이버](https://www.naver.com)
 
